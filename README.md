@@ -6,7 +6,7 @@ add cool faces to ziggy
 ## usage
 
 ### `!face` - get a random cool face
-### `!face <x>` - get cool face \#<x>
+### `!face <x>` - get cool face \#x
 
 ## notes
 
