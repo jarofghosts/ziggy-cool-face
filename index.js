@@ -2,7 +2,7 @@ var coolFace = require('cool-ascii-faces')
 
 var lookup = /^\!face \d+$/
 
-cool.help = '!face - print a cool ascii face'
+cool.help = '!face - print a cool ascii face\n!face <x> - print face #<x>'
 
 module.exports = cool
 
